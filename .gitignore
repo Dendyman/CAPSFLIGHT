@@ -1,2 +1,8 @@
 node_modules
 gen
+mta_archives
+app/resources
+app/travel_analytics/dist
+app/travel_analytics/node_modules
+app/travel_processor/dist
+app/travel_processor/node_modules
