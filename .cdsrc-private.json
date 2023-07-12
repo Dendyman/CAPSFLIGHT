@@ -1,0 +1,19 @@
+{
+  "requires": {
+    "db": {
+      "binding": {
+        "type": "cf",
+        "apiEndpoint": "https://api.cf.us10.hana.ondemand.com",
+        "org": "afanasevdm_cfruntime-371tohiy",
+        "space": "capdemo",
+        "instance": "sflight-db",
+        "key": "sflight-db-key",
+        "resolved": false
+      },
+      "kind": "hana",
+      "vcap": {
+        "name": "db"
+      }
+    }
+  }
+}
