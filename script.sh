@@ -10,4 +10,4 @@ build:
 mbt build
 
 cf deploy mta_archives/capire.sflight_1.0.0.mtar
-1
+12
